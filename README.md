@@ -13,6 +13,14 @@
 
 About me: I am a student studying computer science while working in customer service at Currys.
 
+</div>
+
+<div align="centre">
+
+<img src="https://giphy.com/gifs/computer-gi84IkFRzwube" width="600" height="300>
+
+</div>
+
 <br>
 
 Skillset: I have a range of skills I’ve worked on throughout my work life. I worked in business computer support, where I learned computer repair and support, network and server setup, and system maintenance.
