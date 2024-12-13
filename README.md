@@ -17,7 +17,7 @@ About me: I am a student studying computer science while working in customer ser
 
 <div align="center">
 
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYxZnhsa2c5eWY0Yjh5eGtudGg3ZDY5YW14NjE5anFpaHJ1YTVkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.webp.gif" width="600" height="300"/>
+ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmYxZnhsa2c5eWY0Yjh5eGtudGg3ZDY5YW14NjE5anFpaHJ1YTVkayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif" width="600" height="300"/>
 
 </div>
 
